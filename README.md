@@ -1,5 +1,8 @@
 # Gemini API ile Basit Sohbet Arayüzü
 
+![Uygulama Arayüzü](images/demo.png)
+
+
 Bu proje, **Google Gemini 1.5 Flash** modelini kullanarak Python ve Gradio ile oluşturulmuş basit bir sohbet uygulamasıdır. Amacı, Gemini API'sinin nasıl çalıştığını hızlıca görmek ve test etmektir.
 
 
@@ -37,4 +40,10 @@ python app.py
 
 ### ❗ Önemli Not
 my_api_key.py dosyası kişiseldir, kimseyle paylaşmayın.
+
+ ### Kullanılan Teknolojiler
+ - Google Generative AI (Gemini 1.5 Flash)
+ - Gradio
+ - Python 3.12
+
 
